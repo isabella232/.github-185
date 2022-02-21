@@ -3,6 +3,12 @@
 ## Jumio Documentation
 :books: Our technical guides will assist you with implementing, updating and navigating Jumio products.
 
+## KYX
+
+### [KYX API](https://github.com/Jumio/implementation-guides/blob/master/api-guide/api-guide-kyx.md)
+### [Workflow Descriptions](https://github.com/Jumio/implementation-guides/blob/master/api-guide/workflow-descriptions-kyx.md)
+### [Retrieval API](https://github.com/Jumio/implementation-guides/blob/master/api-guide/api-guide-kyx.md#retrieval)
+
 ## API
 
 ### [Retrieval API](https://github.com/Jumio/implementation-guides/blob/master/netverify/netverify-retrieval-api.md)
