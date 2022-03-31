@@ -5,7 +5,9 @@
 
 ## KYX (New Customers)
 
-- KYX Implementation Guide
+What is KYX? Get more information [here](https://jumio.github.io/kyx/).
+
+- [KYX Implementation Guide](https://jumio.github.io/kyx/integration-guide.html)
 - [Web](https://jumio.github.io/kyx/integration-guide.html#web)
 - [API](https://jumio.github.io/kyx/integration-guide.html#api)
 - [Mobile SDKs (iOS/Android)](https://jumio.github.io/kyx/integration-guide.html#sdk)
@@ -16,7 +18,7 @@
 - [Callback](https://jumio.github.io/kyx/integration-guide.html#callback)
 - [Retrieval API](https://jumio.github.io/kyx/integration-guide.html#retrieval)
 
-## Current Architecture (Existing Customers)
+## Classic Architecture (Existing Customers)
 - [Implementation guides](https://github.com/Jumio/implementation-guides)
 - [Callback](https://github.com/Jumio/implementation-guides/blob/master/netverify/callback.md)
 - [Retrieval API](https://github.com/Jumio/implementation-guides/blob/master/netverify/netverify-retrieval-api.md)
