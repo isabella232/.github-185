@@ -3,36 +3,36 @@
 ## Jumio Documentation
 :books: Our technical guides will assist you with implementing, updating and navigating Jumio products.
 
-## KYX
+## KYX (New Customers)
 
-### [KYX API](https://github.com/Jumio/implementation-guides/blob/master/api-guide/api-guide-kyx.md)
-### [Workflow Descriptions](https://github.com/Jumio/implementation-guides/blob/master/api-guide/workflow-descriptions-kyx.md)
-### [Retrieval API](https://github.com/Jumio/implementation-guides/blob/master/api-guide/api-guide-kyx.md#retrieval)
+- KYX Implementation Guide
+- [Web](https://jumio.github.io/kyx/integration-guide.html#web)
+- [API](https://jumio.github.io/kyx/integration-guide.html#api)
+- [Mobile SDKs (iOS/Android)](https://jumio.github.io/kyx/integration-guide.html#sdk)
+- Cross Platform
+  - [React Native](https://github.com/Jumio/mobile-react)
+  - [Flutter](https://github.com/Jumio/mobile-flutter)
+  - [Cordova](https://github.com/Jumio/mobile-cordova)
+- [Callback](https://jumio.github.io/kyx/integration-guide.html#callback)
+- [Retrieval API](https://jumio.github.io/kyx/integration-guide.html#retrieval)
 
-## API
-
-### [Retrieval API](https://github.com/Jumio/implementation-guides/blob/master/netverify/netverify-retrieval-api.md)
-### [Deletion API](https://github.com/Jumio/implementation-guides/blob/master/netverify/netverify-delete-api.md)
-### [Callbacks](https://github.com/Jumio/implementation-guides/blob/master/netverify/callback.md)
-
-## MOBILE
-### [Android SDK](https://github.com/Jumio/mobile-sdk-android)
-### [iOS SDK](https://github.com/Jumio/mobile-sdk-ios)
-### Crossplatform
-* [React Native Plugin](https://github.com/Jumio/mobile-react)
-* [Flutter Plugin](https://github.com/Jumio/mobile-flutter)
-* [Cordova Plugin](https://github.com/Jumio/mobile-cordova)
-
-## WEB
-### [Web Client](https://github.com/Jumio/implementation-guides/blob/master/netverify/netverify-web-v4.md)
+## Current Architecture (Existing Customers)
+- [Implementation guides](https://github.com/Jumio/implementation-guides)
+- [Callback](https://github.com/Jumio/implementation-guides/blob/master/netverify/callback.md)
+- [Retrieval API](https://github.com/Jumio/implementation-guides/blob/master/netverify/netverify-retrieval-api.md)
 
 ---
 
-#### [Tech Blog](https://medium.com/jumio)
-#### [Jumio Knowledge Base](https://support.jumio.com/hc/en-us)
+## Helpful Links
+
+- [Tech Blog](https://medium.com/jumio)
+- [Jumio Knowledge Base](https://support.jumio.com/hc/en-us)
 
 #### Support
 If you have any questions, please contact Jumio Customer Service at support@jumio.com. The [Jumio online helpdesk](https://support.jumio.com) contains a wealth of information regarding our services including demo videos, product descriptions, FAQs, and other resources that can help to get you started with Jumio.
+
+---
+&copy; Jumio Corporation, 395 Page Mill Road, Suite 150 Palo Alto, CA 94306
 
 
 <!--
